@@ -1,0 +1,15 @@
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\bin\Debug\net8.0\Calculadora Bien.exe
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\bin\Debug\net8.0\Calculadora Bien.deps.json
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\bin\Debug\net8.0\Calculadora Bien.runtimeconfig.json
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\bin\Debug\net8.0\Calculadora Bien.dll
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\bin\Debug\net8.0\Calculadora Bien.pdb
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\obj\Debug\net8.0\Calculadora Bien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\obj\Debug\net8.0\Calculadora Bien.AssemblyInfoInputs.cache
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\obj\Debug\net8.0\Calculadora Bien.AssemblyInfo.cs
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\obj\Debug\net8.0\Calculadora Bien.csproj.CoreCompileInputs.cache
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\obj\Debug\net8.0\Calculadora Bien.sourcelink.json
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\obj\Debug\net8.0\Calculadora Bien.dll
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\obj\Debug\net8.0\refint\Calculadora Bien.dll
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\obj\Debug\net8.0\Calculadora Bien.pdb
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\obj\Debug\net8.0\Calculadora Bien.genruntimeconfig.cache
+C:\Users\TestWin\OneDrive - Universidad Central del Ecuador\Escritorio\Calculadora Bien\obj\Debug\net8.0\ref\Calculadora Bien.dll
